@@ -46,7 +46,7 @@ Alternatively, you can also clone the latest version from the [repository](https
 pip install -e .
 ```` 
 
-**PyTorch with CUDA**
+**PyTorch withh CUDA**
 
 If you want to use a GPU / CUDA, you must install PyTorch with the matching CUDA Version. Follow
 [PyTorch - Get Started](https://pytorch.org/get-started/locally/) for further details how to install PyTorch.
